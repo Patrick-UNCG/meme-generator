@@ -35,6 +35,7 @@ export default function Meme() {
     
     return (
         <main>
+            <h1>GENERATE YOUR OWN MEMES</h1>
             <div className="form">
                 <input 
                     type="text"
